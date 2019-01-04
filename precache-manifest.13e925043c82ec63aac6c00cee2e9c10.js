@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "ab85311c7956a388881f",
+    "revision": "8a68e6496922156bec86",
     "url": "/oyster/static/css/main.07d2b3ce.chunk.css"
   },
   {
-    "revision": "ab85311c7956a388881f",
-    "url": "/oyster/static/js/main.ab85311c.chunk.js"
+    "revision": "8a68e6496922156bec86",
+    "url": "/oyster/static/js/main.8a68e649.chunk.js"
   },
   {
     "revision": "f739feb7d61c48a46bed",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/oyster/static/js/runtime~main.2e92c044.js"
   },
   {
-    "revision": "1e2f7580f445178dd7e495ecd7871133",
+    "revision": "0790238a13ef037317c040b40f74ef43",
     "url": "/oyster/index.html"
   }
 ];

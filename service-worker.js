@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/oyster/precache-manifest.008a517da2f9a348c144f3080d6e4d2b.js"
+  "/oyster/precache-manifest.13e925043c82ec63aac6c00cee2e9c10.js"
 );
 
 workbox.clientsClaim();
