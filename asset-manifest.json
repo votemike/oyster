@@ -1,13 +1,13 @@
 {
-  "main.css": "/votemike/static/css/main.07d2b3ce.chunk.css",
-  "main.js": "/votemike/static/js/main.585510c5.chunk.js",
-  "main.js.map": "/votemike/static/js/main.585510c5.chunk.js.map",
-  "static/js/1.f739feb7.chunk.js": "/votemike/static/js/1.f739feb7.chunk.js",
-  "static/js/1.f739feb7.chunk.js.map": "/votemike/static/js/1.f739feb7.chunk.js.map",
-  "runtime~main.js": "/votemike/static/js/runtime~main.eb44bb90.js",
-  "runtime~main.js.map": "/votemike/static/js/runtime~main.eb44bb90.js.map",
-  "static/css/main.07d2b3ce.chunk.css.map": "/votemike/static/css/main.07d2b3ce.chunk.css.map",
-  "index.html": "/votemike/index.html",
-  "precache-manifest.6ad2f2cf3158b2140b75226be160f84c.js": "/votemike/precache-manifest.6ad2f2cf3158b2140b75226be160f84c.js",
-  "service-worker.js": "/votemike/service-worker.js"
+  "main.css": "/oyster/static/css/main.07d2b3ce.chunk.css",
+  "main.js": "/oyster/static/js/main.ab85311c.chunk.js",
+  "main.js.map": "/oyster/static/js/main.ab85311c.chunk.js.map",
+  "static/js/1.f739feb7.chunk.js": "/oyster/static/js/1.f739feb7.chunk.js",
+  "static/js/1.f739feb7.chunk.js.map": "/oyster/static/js/1.f739feb7.chunk.js.map",
+  "runtime~main.js": "/oyster/static/js/runtime~main.2e92c044.js",
+  "runtime~main.js.map": "/oyster/static/js/runtime~main.2e92c044.js.map",
+  "static/css/main.07d2b3ce.chunk.css.map": "/oyster/static/css/main.07d2b3ce.chunk.css.map",
+  "index.html": "/oyster/index.html",
+  "precache-manifest.008a517da2f9a348c144f3080d6e4d2b.js": "/oyster/precache-manifest.008a517da2f9a348c144f3080d6e4d2b.js",
+  "service-worker.js": "/oyster/service-worker.js"
 }
