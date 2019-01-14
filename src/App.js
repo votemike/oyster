@@ -4,18 +4,16 @@ import Results from './Results.js';
 import './App.css';
 
 class App extends Component {
-    // @TODO All zones (Gatwick/Watford/Shenfield etc...)
     // @TODO Design
-    // @TODO Suggest upgrading zones as some travel cards allow that
-    // @TODO upfront costs
+    // @TODO Percentage savings in a half-table triangle thing
+    // @TODO All zones (Gatwick/Watford/Shenfield etc...)
+    // @TODO Commuter Zone saving
     // @TODO download Oyster history and suggest from that
     // @TODO Off-Peak/On-Peak (including both)
-    // @TODO Commuter Zone saving
     // @TODO part travelcard, part PAYG prices
-    // @TODO call API to keep prices up to date each year
-    // @TODO Percentage savings compared to most expensive price
-    // @TODO Holiday days per year
+    // @TODO Suggest upgrading zones as some travel cards allow that
     // @TODO if you have zone 2-3 travel card, for X more, you could upgrade to 1-3 which = Y trips in to central
+    // @TODO Holiday days per year
     constructor(props) {
         super(props);
         this.state = {
@@ -47,9 +45,9 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-            Full adult anytime fares only<br/>
-            For illustration purposes only<br/>
-            {this.renderForm()}
+            <h1>Oyster App</h1>
+            <p>Use this tool to help gauge which ticket type to buy and if it is better to stick with pay-as-you-go for the number of days you travel.<br/>This tool is in development and may not be 100% accurate. All fares are based on anytime prices.<br/>The tool does not deal with travel outside of the Oyster zones.</p>
+            {this.renderForm()}<br/>
             {this.renderResults()}
         </header>
       </div>
